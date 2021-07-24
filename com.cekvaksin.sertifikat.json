@@ -1,0 +1,92 @@
+{
+ "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
+      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_inter_reward":"ca-app-pub-3940256099942544/5354046379",
+      "startappid": "201669628",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":"",
+      "interval": 3
+    
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Tips",
+      "image": "file:///android_asset/image/ic_launcher.png"
+
+    },
+    {
+      "category": "Tutorial",
+      "image": "file:///android_asset/image/ic_launcher.png"
+
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "Tips",
+      "title": "Info Vaksin",
+      "image": "file:///android_asset/image/34.jpg",
+      "description": "Info Vaksin",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "category": "Sertifikat",
+      "title": "Via Aplikasi Pedulilindungi",
+      "image": "file:///android_asset/image/35.jpg",
+      "description": "Cara Cek Sertifikat",
+      "link": "file:///android_asset/guide/guide_2.html"
+    },
+    {
+      "id": 3,
+      "category": "Sertifikat",
+      "title": "Via Link SMS",
+      "image": "file:///android_asset/image/36.jpg",
+      "description": "Cara Cek Sertifikat",
+      "link": "file:///android_asset/guide/guide_3.html"
+    },
+    {
+      "id": 4,
+      "category": "Sertifikat",
+      "title": "Via Web pedulilindungi.id",
+      "image": "file:///android_asset/image/37.jpg",
+      "description": "Cara Cek Sertifikat",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+	{
+      "id": 5,
+      "category": "Tips",
+      "title": "Data Tambahan",
+      "image": "file:///android_asset/image/38.jpg",
+      "description": "Data Tambahan",
+      "link": "file:///android_asset/guide/guide_5.html"
+    },
+    {
+      "id": 6,
+      "category": "Tips",
+      "title": "Melihat Riwayat dan Tiket Vaksin",
+      "image": "file:///android_asset/image/39.jpg",
+      "description": "Melihat Riwayat dan Tiket Vaksin",
+      "link": "file:///android_asset/guide/guide_6.html"
+    },
+    {
+      "id": 7,
+      "category": "Tips",
+      "title": "Download Sertifikat Vaksin",
+      "image": "file:///android_asset/image/40.jpg",
+      "description": "Cara Download Sertifikat Vaksin",
+      "link": "file:///android_asset/guide/guide_7.html"
+    }
+  ]
+}
