@@ -1,0 +1,97 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_reward":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_reward":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Tips",
+      "image": "file:///android_asset/image/alien1.jpg"
+
+    },
+    {
+      "category": "Tutorial",
+      "image": "https://aliendro.id/uploads/demo/guideslide/alien_logo.jpg"
+
+    },
+    {
+      "category": "Free SC",
+      "image": "https://aliendro.id/uploads/demo/guideslide/icon.jpg"
+
+    },
+    {
+      "category": "Premium SC",
+      "image": "file:///android_asset/image/maskot.jpg"
+
+    }
+  ],
+
+ "Data": [
+    {
+      "id": 1,
+      "category": "Tips",
+      "title": "Sedikit mengenai bakso simulator",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Penjelasan mengenai bakso simulator",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "category": "Tutorial",
+      "title": "Fitur Game Bakso Simulator",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Rincian Fitur Game Bakso Simulator",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 3,
+      "category": "Tutorial",
+      "title": "Cara bermain bakso simulator satu",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Cara bermain bakso simulator satu",
+      "link": "file:///android_asset/guide/guide3.html"
+    },
+    {
+      "id": 4,
+      "category": "Tips",
+      "title": "Cara bermain bakso simulator dua",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Cara bermain bakso simulator dua",
+      "link": "file:///android_asset/guide/guide4.html"
+    },
+    {
+      "id": 5,
+      "category": "Tips",
+      "title": "Cara bermain bakso simulator tiga",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Cara bermain bakso simulator tiga",
+      "link": "file:///android_asset/guide/guide5.html"
+    },
+    {
+      "id": 6,
+      "category": "Tips",
+      "title": "Cara download",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Cara download bakso simulator",
+      "link": "file:///android_asset/guide/guide6.html"
+    }
+  ]
+}
