@@ -1,0 +1,108 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Indonesia",
+      "image_link": "frame/idul.webp"
+
+    },
+    {
+      "category": "HUT RI",
+      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+
+    },
+    {
+      "category": "Indonesia",
+      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+
+    },
+    {
+      "category": "Hari Merdeka",
+      "image_link": "frame/ribut.webp"
+
+    }
+  ],
+
+  "Item": [
+    {
+      "id": 1,
+      "category": "Hari Merdeka",
+      "title": "Merdeka 1",
+      "image_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2IzxdRJuHmB17LntAPYzZBMs8UFWYKFzxPuKk8qY-DWvcTPhkpdQUOoDZRkDojPQ-amIiUXEuksFdD3AilBCrND2MAQve0wdbDvllmPGN-2Om-XzkzXDwj_ViWWM1UFttpEtaWQ-GjNyRzv7FQdtedJgmdWw4zs634TW8YfX18DH692JLEQBLZf51/s800/RI_10.png"
+    },
+    {
+      "id": 2,
+      "category": "Hari Merdeka",
+      "title": "Merdeka 2",
+      "image_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA_y17xpIMU25F0aJ6QMoAIsRAnZ778qd7Qj85OiNcLUR2o5XQHMtueN8gMNNdyDHtv6d7SlrsQhnel5H1KJbl0QOfyefp_bnQs1537PHBYPubrap7TF6yOVDkGKuSPEsy5ytFaMnQxNJGCBDKDh8fiVasxGrV1aTcIVdi79E4Nhagk_U-voFvwe3N/s800/RI_9.png"
+    },
+    {
+      "id": 3,
+      "category": "Hari Merdeka",
+      "title": "Merdeka 3",
+      "image_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcPWN92u3Qyt0cYX5LZhHM6NsV50TVkcO3l4tKGJ1UYLynMvQcGVDV0D8P2VgRhfnaJ7k-vyki7DTbWVaBoHidtjcDFmAEXs0Oz-Jm6wxE6jCcFEIcyAsLdz3aCdRSTE4Olf7MmA6r1S-5F8whrVNq5LiCC-oJmLdY1iForKHZkkbV8XfJdY1RBlEu/s800/RI_8.png"
+    },
+    {
+      "id": 4,
+      "category": "Hari Merdeka",
+      "title": "Merdeka 4",
+      "image_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH8mLAlH5R92EN95eTkIPu9xKZE3r98JLoBsRhl7Mw982bYJH06FvKum9xPT4coG4gQC7GknCoCIxBhVwwzbbrtWtAZT-vaP0K5NX8sR8hXMdz66yYj4ZF1Z1e5Qgf01FKK2BRurO-jbRZQwPK8fK-YtNO-ZsqEXSAoRJwjChTsLFqqlycaOQtztkr/s800/RI_7.png"
+    },
+    {
+      "id": 5,
+      "category": "Hari Merdeka",
+      "title": "Merdeka 5",
+      "image_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZOlNg4YeUeD_N6mSkfaVeiXrwkqBUgli8mg7XwJGYHUFiT6c36k3nqDs1FVNQAdkhpwFxgINePYRqPOl29npXmh54bLwBqPxjaCZoBdSUKeyfdr0VLMLaxYXo80WfD6uqxV4xfGlQlgd-xSJGlNDz6A6uY37sGSaUIn8GZb-H6PvgH744JFj8vFe7/s800/RI_6.png"
+    },
+    {
+      "id": 6,
+      "category": "Hari Merdeka",
+      "title": "Merdeka 6",
+      "image_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK3w5TFhqJ9BjP2O3XoPYl_77Ay9M-RrFDZATslXnnzYpHaEr3PyneR4oCG-6Fw1lu1VqiP5RXPplZBKtRqqKHiw3ScUnw1NhM3ErNJa-vDLkRJ_kgPNAcYrpPS9HvLcwbxeBbi1mlRLXG82RU2N-bImUtSF7lVCnHK2V2c6Mvx6KLYJs8OtqcvUlg/s800/RI_5.png"
+    },
+    {
+      "id": 7,
+      "category": "Hari Merdeka",
+      "title": "Merdeka 7",
+      "image_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5AYukRM3L10b7K2PdqldB1kFVStzTCJHyCMWVEqEVyhSEF31w6uE6KfCTj0CV2vkb1A9zCoZ3XmJhoxV9saiELb6z_1rT1VZXfqQ9hzf-ugwS5JVw6MZZntJQP3Ryv9sENGaW1D6is8V9mwrkEtou3p38Cf7rTIEwR1o_BBJZgtzCNb4SorYTEOSA/s800/RI_4.png"
+    },
+    {
+      "id": 8,
+      "category": "Hari Merdeka",
+      "title": "Merdeka 8",
+      "image_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiStj_BPkhKqo2AXwqAup25RbRSv513COXL1VflAKFidO2jJz4WMXGnYCysitvE0Fmn_r6SO-Eu6VY-uTDG4YAxWT01hW771eF_Ttp4e64-dI0Fj-tdRSDY1hi4nsKmYxLdzVmkVLK4Yh03G3iVSqk2sw52UEJeDlFz0ryKqufVfZZ0xy34axdGl8ss/s800/RI_3.png"
+    },
+    {
+      "id": 9,
+      "category": "Hari Merdeka",
+      "title": "Merdeka 9",
+      "image_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7bbnCi2bprvkDppH-SUtYfV8egmWC7aLIOX5gCyM_V6JPwZJufgEyTiEhyXBV1pblNJfV4k6E85fcnjTzBK6GbgkSnyohxr8sUt2ESzlBX5VFLvPC65H9eEmuRu7dnR4y614JZDUR4YD6gsj67h4H10OrX0Ur1kaaNRmzlLbJJDTleGZzNOw6-51-/s800/RI_2.png"
+    },
+    {
+      "id": 10,
+      "category": "Hari Merdeka",
+      "title": "Merdeka 10",
+      "image_link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYqpwYASQNu04hdPX5DroCsyHEZgTsXBfMh0ryfmBSF-toZHXxAmXayJ6r70FioU-VWsBcxO8iv5zxeVCUIFS7ykOXh2gDt5POCo-439AUpAGEviK8PFYLetKhbyJyQkgllFDykoyRKFBNrWKp8CPmz1xYpEBwD654EYRN3tdqXkhhRcCHuzZS1S4L/s1600/RI_1.png"
+    }
+
+
+  ]
+}
